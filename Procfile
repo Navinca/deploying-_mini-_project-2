@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run app.py $PORT
+web=1: sh setup.sh && streamlit run app.py
 
